@@ -1,7 +1,8 @@
 # pgpsearch
 PGPSearch is a Python-based command-line tool for fetching and listing PGP email addresses associated with a specific domain. It queries the Ubuntu keyserver and extracts email information, making it easy to view and save the results.
 
-![pgpseaerch](https://img.shields.io/github/license/kathuluman/pgpseaerch?color=blue&style=for-the-badge) ![Version](https://img.shields.io/github/v/tag/kathuluman/pgpseaerch?color=blue&style=for-the-badge)
+![pgpseaerch](https://img.shields.io/github/license/kathuluman/pgpseaerch?color=blue&style=for-the-badge) 
+![Version](https://img.shields.io/github/v/tag/kathuluman/pgpseaerch?color=blue&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Version](https://img.shields.io/badge/version-1.5.0-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green)
